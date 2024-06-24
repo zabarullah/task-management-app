@@ -38,7 +38,7 @@ npm install lite-server --save-dev
 
 Then, add the following script to your package.json:
 
-g"scripts": {
+"scripts": {
   "dev": "lite-server"
 }
 
